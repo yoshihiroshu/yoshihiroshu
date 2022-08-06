@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[プライベート](https://github.com/yoshi429/yoshi429)
+
 <!--
 **yoshihiroshu/yoshihiroshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
